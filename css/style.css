@@ -1,0 +1,25 @@
+body{
+    background-color: #FFFDD0;
+    margin: 0px;
+}
+
+nav{
+    color: #007FFF;
+    list-style-position: inside;
+    font-size: larger;
+    line-height: 1.3;
+}
+
+main div.elencoillustratori{
+    font-size: larger;
+    color: #007FFF;
+    list-style-position: inside;
+    line-height: 150%;
+}
+
+h1{
+    color: #007FFF;
+    border: #007FFF;
+    margin-left: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}

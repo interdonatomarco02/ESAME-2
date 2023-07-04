@@ -1,0 +1,127 @@
+body{
+    background-color: #FFFDD0;
+}
+
+h1{
+    color: #007FFF;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p{
+    color: #007FFF;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.454);
+    
+}
+
+div.camilo1{
+    margin-top: 0%;
+}
+
+div.camilo2{
+    margin-left: 70%;
+    margin-top: -42%;
+}
+
+div.camilo3{
+    margin-top: 15%;
+}
+
+div.camilo4{
+    margin-left: 70%;
+    margin-top: -41%;
+}
+
+div.tim1{
+    margin-top: 0%;
+}
+
+div.tim2{
+    margin-left: 70%;
+    margin-top: -32%;
+}
+
+div.tim3{
+    margin-top: 5%;
+}
+
+div.tim4{
+    margin-left: 70%;
+    margin-top: -31%;
+}
+
+div.karl1{
+    margin-top: 10%;
+}
+
+div.karl2{
+    margin-left: 70%;
+    margin-top: -42%;
+}
+
+div.karl3{
+    margin-top: 15%;
+}
+
+div.karl4{
+    margin-left: 70%;
+    margin-top: -41%;
+}
+
+div.xoana1{
+    margin-top: 10%;
+}
+
+div.xoana2{
+    margin-left: 70%;
+    margin-top: -42%;
+}
+
+div.xoana3{
+    margin-top: 15%;
+}
+
+div.xoana4{
+    margin-left: 70%;
+    margin-top: -41%;
+}
+
+div.linn1{
+    margin-top: 20%;
+}
+
+div.linn2{
+    margin-left: 70%;
+    margin-top: -42%;
+}
+
+div.linn3{
+    margin-top: 15%;
+}
+
+div.linn4{
+    margin-left: 70%;
+    margin-top: -41%;
+}
+
+div.boca1{
+    margin-top: 10%;
+}
+
+div.boca2{
+    margin-left: 70%;
+    margin-top: -42%;
+}
+
+div.boca3{
+    margin-top: 15%;
+}
+
+div.boca4{
+    margin-left: 70%;
+    margin-top: -41%;
+}

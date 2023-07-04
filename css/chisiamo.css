@@ -1,0 +1,26 @@
+body{
+    background-color: #FFFDD0;
+}
+
+h1{
+    color: #007FFF;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul{
+    color: #007FFF;
+}
+
+p{
+    color: #007FFF;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hsla(0, 0%, 50%, 0.454)
+}
+
+nav{
+    font-size: larger;
+}
